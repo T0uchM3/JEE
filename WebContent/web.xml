@@ -10,6 +10,6 @@
 		<url-pattern>/exercice2</url-pattern>
 	</servlet-mapping>
   <welcome-file-list>
-    <welcome-file>index2.jsp</welcome-file>
+    <welcome-file>index42.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
